@@ -1,0 +1,5 @@
+{
+  "name": "SecureExam Pro",
+  "description": "A secure online examination platform with anti-cheat measures, automatic grading, and examiner notifications.",
+  "requestFramePermissions": []
+}
